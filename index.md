@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Minimal Headway, a blog about transit and mathematics.
 ---
 
