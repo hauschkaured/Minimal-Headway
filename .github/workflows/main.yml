@@ -17,4 +17,4 @@ jobs:
           # Provide personal access token
           # TOKEN: ${{ secrets.TOKEN }}
           # Or if publishing to the same repo, use the automatic token
-          TOKEN: ${{ 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 }}
+          TOKEN: ${{ secrets.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 }}
